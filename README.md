@@ -8,13 +8,16 @@ The purpose of this analysis was to determine the number of retiring employees p
 - Filter through the data to identify how many employees are about to retire from the comp
 any
 
-! (C:\Users\hinas\OneDrive\Desktop\Bootcamp\Module_7_SQL\Analysis Projects Folder)
+![retirement_titles](https://user-images.githubusercontent.com/96637236/164993473-dad6fb59-f19d-4adc-8529-5779dcdb3245.png)
 
  - Once the clear picture has been provided as to how many employees are about to retire in the company,the next step is to provide mentorship program to the current employees
 - Further analysis is done to filter the data and find the employees who are eligibile for the mentorship program.
 The entire analysis has been performed for overall company's growth and smooth operations in the future.
-! (C:\Users\hinas\OneDrive\Desktop\Bootcamp\Module_7_SQL\Analysis Projects Folder)
+
+![mentorship_eligibility](https://user-images.githubusercontent.com/96637236/164993482-fdf0c087-0c9b-49fc-a2fe-bc8168b3d5db.png)
 
 ** Summary: 
  There will be around 1,33,776 roles that are needed to be filled and it will definately going to have a huge impact on the company's business if timely decisions to fulfill current roles are not taken.Further more mentorship or co-op programs can definately have a positive impact on comapny's overall success.
+
+
 
