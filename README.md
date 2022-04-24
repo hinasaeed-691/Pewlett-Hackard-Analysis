@@ -1,2 +1,23 @@
 # Pewlett-Hackard-Analysis
- SQL Intro
+-Overview of the analysis: 
+The purpose of this analysis was to determine the number of retiring employees per title, and identify employees who are eligible to participate in a mentorship program.
+
+-Results: Provide a bulleted list with four major points from the two analysis deliverables. Use images as support where needed.
+-- The overall analysis of this assisgnemnt shows the following results:
+--- Categorize the employees by their title to identify the most recent title of employees
+--- Filter through the data to identify how many employees are about to retire from the comp
+any
+
+-img C:\Users\hinas\OneDrive\Desktop\Bootcamp\Module_7_SQL\Analysis Projects Folder
+
+--- Once the clear picture has been provided as to how many employees are about to retire in the company,the next step is to provide mentorship program to the current employees
+--- Further analysis is done to filter the data and find the employees who are eligibile for the mentorship program.
+The entire analysis has been performed for overall company's growth and smooth operations in the future.
+-img C:\Users\hinas\OneDrive\Desktop\Bootcamp\Module_7_SQL\Analysis Projects Folder
+
+- Summary: 
+-- How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+--- There will be around 1,33,776 roles that are needed to be filled and it will definately going to have a huge impact on the company's business if timely decisions to fulfill current roles are not taken.Further more mentorship or co-op programs can definalty have a positive impact on comapny's overall success.
+
+-- Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+--- Yes there are enough qualified,retirement-ready employees in the department to mentor the next generation of Pewlett Hackard employees
